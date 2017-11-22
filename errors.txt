@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 493: expected 'simple_expression' not found.
+    show mary cry at at Position(xpos=0.5, xanchor='center') with ease
+                     ^
+
+Ren'Py Version: Ren'Py 6.99.13.2919

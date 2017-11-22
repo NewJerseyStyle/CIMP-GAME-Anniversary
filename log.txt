@@ -1,0 +1,31 @@
+Wed Nov 22 16:44:09 2017
+Linux-4.2.0-42-generic-x86_64-with-debian-stretch-sid
+Ren'Py 6.99.13.2919
+ 
+
+Bootstrap to the start of init.init took 0.28s
+Early init took 0.04s
+Loader init took 0.03s
+Loading error handling took 0.58s
+Loading script took 7.99s
+Loading persistent took 0.07s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.78s
+Loading analysis data took 0.00s
+Analyze and compile ATL took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/dave/.renpy/backups/Nam.1':
+Dump and make backups. took 0.21s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+DPI scale factor: 1.000000
+Creating interface object took 0.24s
+Cleaning stores took 0.00s
+Init translation took 0.22s
+Build styles took 0.03s
+Load screen analysis took 0.00s
+Analyze screens took 0.12s
+Save screen analysis took 0.29s
+Prepare screens took 0.46s
+Save pyanalysis. took 0.22s
+Save bytecode. took 0.10s
